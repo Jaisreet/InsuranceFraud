@@ -41,4 +41,4 @@ The part that follows prints the test score and the classification report for th
 The last part prints the scores of a model that does not use AgeOfPolicyHolder, which significance is tested.
 
 ## Results
-See the Fraud_Detedtion_project.pdf for the problem, how we solved it and the results
+See the Fraud_Detedtion.pdf for the problem, how we solved it and the results
